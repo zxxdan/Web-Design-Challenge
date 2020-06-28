@@ -1,0 +1,39 @@
+html {
+    font-size: 20px;
+}
+
+p {
+    margin-bottom: 1rem !important;
+    margin-top: 1rem !important
+}
+
+.img-format {
+    margin: 5px;
+    width: 90%;
+    padding-top: 5px;
+}
+
+.img-custom {
+    max-width: 25rem;
+    float: left;
+    padding: 1rem;
+}
+
+.img-analysis {
+    max-width: 90%;
+    padding: 1rem;
+}
+
+.img-active {
+    color: #1a1a1a;
+    box-shadow: 0 5px 15px #1a1a1a;
+  }
+
+.img-hover:hover {
+    color: #1a1a1a;
+    box-shadow: 0 5px 15px #1a1a1a;
+  }
+
+.table-text {
+    text-align: center;
+}
