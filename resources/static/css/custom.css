@@ -1,6 +1,4 @@
-html {
-    font-size: 20px;
-}
+
 
 p {
     margin-bottom: 1rem !important;
@@ -36,4 +34,9 @@ p {
 
 .table-text {
     text-align: center;
+}
+
+.table-width {
+    table-layout: auto;
+    width: 100%;  
 }
